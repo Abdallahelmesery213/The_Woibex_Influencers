@@ -126,7 +126,7 @@ header .right-part .nav3{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* padding-left: 20px; */
+    padding-left: 20px;
 }
 header .right-part .nav3 a{
     text-decoration: none;
